@@ -90,7 +90,7 @@ Aim: To transform the presentation of data values in some ways so that the new f
 Extract the dataset by running the following code in SQL:
 
 ```{r message=FALSE, warning=FALSE}
-##Elixhauser scores: https://github.com/MIT-LCP/mimic-code/blob/master/concepts/comorbidity/elixhauser-ahrq-v37-with-drg.sql
+##Elixhauser scores: https://github.com/criticaldata/hst953-edx/blob/master/2.04.%20Data%20Preprocessing/Elixhauser.sql
 ```
 
 Save Elixhauser.csv in your desktop folder: "MIMIC_data_files".
